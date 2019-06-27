@@ -1,0 +1,35 @@
+#menuLabel {
+ -fx-font-size: 20px;
+ -fx-font-family: fantasy;
+ -fx-background-color: lightgray;
+ -fx-background-radius: 10px;
+ -fx-border-radius: 10px;
+ -fx-border-width: 2px;
+ -fx-border-style: solid;
+ -fx-padding: 5px;
+}
+
+#menuLabelHover {
+ -fx-font-size: 20px;
+ -fx-font-weight: bold;
+ -fx-font-family: fantasy;
+ -fx-background-color: lightblue;
+ -fx-background-radius: 10px;
+ -fx-border-radius: 10px;
+ -fx-border-width: 2px;
+ -fx-border-style: solid;
+ -fx-padding: 5px;
+}
+
+#password {
+ -fx-font-size: 10px;
+ -fx-text-fill: rgb(255,0,0);
+ -fx-opacity: 0.3;
+}
+#winLabel {
+ -fx-font-size: 50px;
+ -fx-font-weight: bold;
+ -fx-font-family: fantasy;
+ -fx-text-fill: green;
+ 
+ }
